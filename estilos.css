@@ -1,0 +1,94 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+}
+
+/* header css */
+ #header{
+    display: flex;
+    background-color:#4d606e;
+    justify-content: space-between; 
+  }
+  #foto1{
+    display: flex;
+    width: 160px;
+    height: auto;
+    margin-left: 140px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+  }
+    h1{
+      display: flex;
+      font-style: italic;
+      font-size: 80px;
+      align-items: center;
+      color: #f3e89f;
+       margin-left: 15px;
+    }
+ #foto2{
+   justify-content: end;
+    width: auto;
+    height: 250px;
+ }
+#nav1{
+  display: flex;
+  justify-content: center;
+  background-color: #8bd9cc;
+  height:50px;
+}
+.a1{
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-decoration: none;
+  margin-right: 30px;
+  color: #302f2f;
+
+}
+#foto3{
+  width: 800px;
+  height: auto;
+}
+#foto4{
+  width: 400px;
+  height: 289px;
+}
+#foto5{
+  width: 400px;
+  height: 289px;
+}
+
+/*nav2*/
+ main{
+  display: flex;
+  align-items: stretch;
+  justify-content: space-around;
+  margin-top: 45px;
+ }
+.a2{
+  text-decoration: none;
+  
+}
+
+.adoptados{
+  width: 200px;
+  height: auto;
+  border-radius: 15px;
+  
+}
+ 
+#div4{
+  display: flex;
+  justify-content: center;
+}
+td{
+  vertical-align: top;
+}
+table {
+  border-top: solid gainsboro;
+  border-collapse: separate;
+  border-spacing: 15px 15px;
+  border-style: solid;
+}
