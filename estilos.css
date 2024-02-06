@@ -92,3 +92,15 @@ table {
   border-spacing: 15px 15px;
   border-style: solid;
 }
+.div6{
+  padding: 15px;
+  text-align: center;
+  background-color: #698aa1 ; 
+  color: #f3e89f ;
+}
+.div7{
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: #b2c1c2;
+}
