@@ -84,16 +84,16 @@
   height: 270px;
 }
 #foto3{
-  width: 800px;
+  width: 890px;
   height: auto;
 }
 #foto4{
-  width: 400px;
-  height: 289px;
+  width: 445px;
+  height: 320px;
 }
 #foto5{
-  width: 400px;
-  height: 289px;
+  width: 445px;
+  height: 320px;
 }
 .adoptados{
   width: 200px;
@@ -113,4 +113,21 @@ table {
   border-collapse: separate;
   border-spacing: 15px 15px;
   border-style: solid;
+  background-color: rgb(247, 237, 223);
+}
+.h2-adoptados{
+  text-align: center;
+}
+.p-adoptados{
+
+}
+#td-adoptados{
+  text-align: center;
+  font-size: 29px;
+}
+tr td{
+  border-style: solid;
+  border-radius: 15px;
+  border-width: thin;
+  border-color:dimgray;
 }
