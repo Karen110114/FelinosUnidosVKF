@@ -190,3 +190,7 @@ tr td{
   border-color:dimgray;
   box-shadow: 5px 5px 5px 5px rgba(128, 128, 128, 0.5);
 }
+h3{
+  text-align: center;
+  text-decoration: none;
+}
