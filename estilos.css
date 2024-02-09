@@ -96,7 +96,7 @@ align-items: center;
   padding-right: 150px;
   
 }
-button{
+#boton1{
   height: 50px;
   width: 110px;
   border-radius: 20px;
@@ -173,12 +173,22 @@ table {
   
   background-color: rgb(247, 237, 223);
 }
+#td-table{
+  border-style: none;
+  box-shadow: none;
+  display: flex;
+  align-items: center;
+ 
+  
+}
+#boton2{
+  width: 180px;
+  height: 50px;
+}
 .h2-adoptados{
   text-align: center; 
 }
-.p-adoptados{
 
-}
 #td-adoptados{
   text-align: center;
   font-size: 29px;
