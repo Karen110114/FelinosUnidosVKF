@@ -13,6 +13,7 @@ html{
     display: flex;
     background-color:#4d606e;
     justify-content: space-between; 
+    
   }
   #foto1{
     display: flex;
@@ -58,7 +59,7 @@ html{
 }
 .t-footer{
 font-size: 18px;
-color: white;
+color: #fdff7e;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #h2-div2{
