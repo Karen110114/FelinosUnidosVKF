@@ -72,6 +72,10 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .a-div2{
   text-decoration: none;
+  color:  #fdff7e ;
+}
+.a-div2:hover{
+  color: rgb(13, 173, 173);
 }
 #div3-p{
   color: white;
@@ -117,9 +121,18 @@ align-items: center;
  }
 .a2{
   text-decoration: none;
-  
+  color:  #f3e89f;
 }
-
+.a2:hover{
+  color: rgb(255, 129, 38);
+}
+.a3{
+  color: rgb(11, 160, 152);
+  text-decoration: none;
+}
+.a3:hover{
+  color: rgb(255, 129, 38);
+}
 
 .div6{
   padding: 15px;
@@ -133,7 +146,9 @@ align-items: center;
   padding-bottom: 8px;
   background-color: #b2c1c2;
 }
-/* no copiar*/
+#div5{
+  width: 190px;
+}
 #donar{
   width: 150px;
   height: auto;
@@ -142,6 +157,8 @@ align-items: center;
   width: auto;
   height: 270px;
 }
+
+/* no copiar*/
 #foto3{
   width: 890px;
   height: auto;
@@ -204,4 +221,17 @@ tr td{
 h3{
   text-align: center;
   text-decoration: none;
+}
+#h2{
+  color: rgb(11, 160, 152);
+  font-size: 25px;
+}
+.div2{
+  width: 970px;
+  
+ 
+}
+#a-td{
+text-decoration: none;
+color: cadetblue;
 }
