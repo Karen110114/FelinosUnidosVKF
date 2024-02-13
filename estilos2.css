@@ -83,6 +83,13 @@ html{
     justify-content: space-between;
   
   }
+  .a-div2{
+    text-decoration: none;
+    color:  #fdff7e ;
+  }
+  .a-div2:hover{
+    color: rgb(13, 173, 173);
+  }
   #div1-pie{
   display: flex;
   align-items: center;
