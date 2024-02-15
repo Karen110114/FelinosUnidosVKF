@@ -4,12 +4,13 @@
     padding: 0;
 
 }
-html{
-  background-color: rgb(245, 237, 223); 
+html {
+  background-color: #ebe9f1;
 }
 
 /* header css */
  #header{
+
     display: flex;
     background-color:#4d606e;
     justify-content: space-between; 
@@ -123,6 +124,8 @@ align-items: center;
   align-items: stretch;
   justify-content: space-around;
   margin-top: 45px;
+  
+  
  }
 .a2{
   text-decoration: none;
