@@ -107,6 +107,12 @@ align-items: center;
   border-radius: 20px;
  color: black;
  background-color: #8bd9cc;
+ transition: transform 50ms,
+    
+}
+#boton1:hover{
+  transform: translate(2px, 2px);
+  cursor: pointer;
 }
 
 
@@ -210,6 +216,7 @@ align-items: center;
     opacity: 1;
     filter: blur(0px);
     transform: scale(1);
+    cursor: pointer;
 }
 .conteiner .box .details .content{
     position: absolute ;
@@ -222,7 +229,7 @@ align-items: center;
 .conteiner .box .details .h2-box{
     
     font-size: 30px;
-    color: #f0fc4d;
+    color: #88fcf2;
     display: flex;
     align-items: center;
    
@@ -231,4 +238,9 @@ align-items: center;
     
     line-height: 24px;
     color: rgb(19, 18, 19);
+}
+.a-box{
+  text-decoration: none;
+ 
+
 }

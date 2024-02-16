@@ -187,7 +187,62 @@ border-bottom: solid  rgb(148, 218, 194);
 }
 tr td{
   width: 300px;
+  overflow:hidden ;
+  vertical-align: top;
 }
+
+
 .img1{
   width: 290px;
+  height: 220px;
+  transition: scale 400ms;
+}
+.a-table:hover .img1{
+  
+  scale: 90%;
+  
+
+}
+.tabla-a{
+  border: #8bd9cc 5px dotted;
+}
+#table.div{
+  padding-right: 0px;
+}
+.myh{
+  width: 23px;
+}
+
+/*tabla div*/
+table{
+  border-collapse: separate;
+ border-spacing: 17px 17px;
+}
+.tabla-div1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.tabla-div2{
+
+}
+.tabla-div3{
+  display: flex;
+  justify-content: center;
+  
+  
+}
+.div3-p{
+  border: 2px solid rgb(160, 160, 160);
+  border-radius: 5px;
+  padding: 2px;
+}
+.a-div3{
+  text-decoration: none;
+  color: black;
+}
+.div4-table{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
 }
