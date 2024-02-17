@@ -232,10 +232,18 @@ table{
   
   
 }
+.a-div3:hover{
+  background-color: rgb(157, 231, 194);
+  transform: scale(0.95);
+  transition: transform 0.2s ease;
+  border-radius: 5px;
+}
+
 .div3-p{
-  border: 2px solid rgb(160, 160, 160);
+  border: 2px solid gainsboro;
   border-radius: 5px;
   padding: 2px;
+  position: relative;
 }
 .a-div3{
   text-decoration: none;
