@@ -89,6 +89,10 @@ footer{
   justify-content: space-between;
 
 }
+#footer1{
+  display: flex;
+  justify-content: space-evenly;
+  }
 #div1-pie{
 display: flex;
 align-items: center;
@@ -253,3 +257,4 @@ color: cadetblue;
 #id1{
   background-color: rgb(83, 83, 83);
   }
+ 

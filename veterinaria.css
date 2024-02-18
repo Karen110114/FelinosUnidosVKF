@@ -130,7 +130,7 @@ align-items: center;
   color:  #f3e89f;
 }
 .a1:hover{
-  scale: 1.2;
+  scale: 0.9;
 }
 .a2:hover{
   color: rgb(255, 129, 38);
@@ -247,3 +247,8 @@ align-items: center;
 #id1{
   background-color: rgb(83, 83, 83);
   }
+
+  #footer1{
+    display: flex;
+    justify-content: space-evenly;
+    }

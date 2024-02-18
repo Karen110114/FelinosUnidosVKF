@@ -105,4 +105,8 @@ html{
   #id1{
     background-color: rgb(83, 83, 83);
     }
+    #footer1{
+      display: flex;
+      justify-content: space-evenly;
+      }
   
