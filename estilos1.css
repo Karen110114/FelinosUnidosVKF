@@ -224,6 +224,8 @@ table{
   justify-content: center;
 }
 .tabla-div2{
+height: 140px;
+text-align: center;
 
 }
 .tabla-div3{
@@ -253,4 +255,11 @@ table{
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
+}
+td{
+  background-color: rgb(247, 247, 238);
+  box-shadow: 5px 5px 5px 5px rgba(128, 128, 128, 0.5);
+}
+#id1{
+background-color: rgb(83, 83, 83);
 }
