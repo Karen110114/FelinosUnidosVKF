@@ -259,6 +259,7 @@ text-align: center;
 td{
   background-color: rgb(247, 247, 238);
   box-shadow: 5px 5px 5px 5px rgba(128, 128, 128, 0.5);
+  border-radius: 14px ;
 }
 #id1{
 background-color: rgb(83, 83, 83);

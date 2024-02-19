@@ -182,3 +182,48 @@ align-items: center;
       display: flex;
       justify-content: space-evenly;
       }
+
+h6{
+  font-size: 29px;
+    color:  rgb(238, 155, 60);
+    padding-top: 9px;
+    padding-bottom: 4px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+  #span1{
+    width: 670px;
+    padding-top: 14px;
+    padding-left: 155px;
+    text-align: center;
+    }
+    .t-i{
+      width: 270px;
+      height: 180px;
+      border-radius: 7px;
+      }
+      #table-div{
+        display: flex;
+        justify-content: center;
+        }
+        table {
+         
+          border-collapse: separate;
+          border-spacing: 15px 15px;
+        
+        }
+        tr td{
+          width: 270px;
+         
+          border-style: solid;
+                border-radius: 15px;
+                   border-width: thin;
+                   border-color:dimgray;
+            box-shadow: 5px 5px 5px 5px rgba(128, 128, 128, 0.5);
+        }
+#idi{
+  height: 190px;
+}
+  
