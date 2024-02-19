@@ -5,7 +5,7 @@
 
 }
 html {
-  background-color: rgb(114, 114, 114); 
+  background-color: rgb(91, 90, 90); 
 }
 
 /* header css */
@@ -173,12 +173,12 @@ align-items: center;
 .ubi{
     text-align: center;
     font-size: 19px;
-    color: #82bc16;
+    color: #81a73b;
 }
 article{
     text-align: center;
     font-size: 60px;
-    color: #0f88de;
+    color: #044b7e;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-bottom: 50px;
 }

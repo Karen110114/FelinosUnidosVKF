@@ -42,31 +42,36 @@
 
                  <br>
 
-                 <div class="div6" id="id1"><a href="formularioSocio.html" class="a2">Hazte socio</a></div>
+                 <div class="div6"><a href="formularioSocio.html" class="a2">Hazte socio</a></div>
              </div>
                
                <div class="formulario">
-                 <p class="parafo">Si quieres hacerte socio rellene el formulario</p>
+                 <p class="parafo">Si quieres adoptar a un gato rellene el formulario</p>
                    <form>            
-                   
+                            <label for="name">Nombre del gato:</label>
+                            <input type="text" id="name" name ="cat name"/>
+                                <br>
                            <label for="name">Nombre:</label>
                            <input type="text" id="name" name ="user name"/>
                                <br>
+                            <label for="surname">Apellidos:</label>
+                            <input type="text" id="surname" name ="user surname"/>
+                                <br>
                            <label for="mail">Correo electronico:</label>
                            <input type="email" id ="mail" name ="user-mail">
-                               <br>
-                           <label for="contraseña">Contraseña:</label>
-                           <input type="password" id="contraseña" name="User-password">
-                               <br>
+                                <br>
                            <label for="numeroTelefono">Número de Telefono:</label>
                            <input type="tel" id="numTelefono" name="User-telefono">
-                             <br>
+                                <br>
                            <label for="dni">DNI:</label>
                            <input type="text" id="dni" name="User-dni">
-                             <br>
+                                <br>
                            <labe for="fechaNaz">Fecha de nacimiento:</label>
                            <input type="date" id="fechaNaz" name="fechaNaz">
-                           <br>
+                                <br>
+                            <label for="mensaje">Motivos de adopción:</label>
+                            <textarea for ="mensaje" name ="mensaje" maxlength="400" ></textarea>
+                                <br>
                            <input type="submit" name ="Enviar">
                    </form>
                     
