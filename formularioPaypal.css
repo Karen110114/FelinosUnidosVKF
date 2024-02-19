@@ -1,0 +1,227 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+
+}
+html {
+  background-color: rgb(170, 170, 170); 
+}
+
+/* header css */
+ #header{
+
+    display: flex;
+    background-color:#4d606e;
+    justify-content: space-between; 
+    
+  }
+  #foto1{
+    display: flex;
+    width: 160px;
+    height: auto;
+    margin-left: 140px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+  }
+    h1{
+      display: flex;
+      font-style: italic;
+      font-size: 80px;
+      align-items: center;
+      color: #f3e89f;
+       margin-left: 15px;
+    }
+ #foto2{
+   justify-content: end;
+    width: auto;
+    height: 250px;
+ }
+#nav1{
+  display: flex;
+  justify-content: center;
+  background-color: #8bd9cc;
+  height:50px;
+}
+.a1{
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-decoration: none;
+  margin-right: 30px;
+  color: #302f2f;
+
+}
+/*footer*/
+#f-footer{
+  width: 260px;
+  height: auto;
+}
+.t-footer{
+font-size: 18px;
+color: #fdff7e;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#h2-div2{
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p-div2{
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.a-div2{
+  text-decoration: none;
+  color:  #fdff7e ;
+}
+.a-div2:hover{
+  color: rgb(13, 173, 173);
+}
+#div3-p{
+  color: white;
+  font-size: 16px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+footer{
+  background-color: #6c6c70;
+  display: flex;
+  justify-content: space-between;
+
+}
+#div1-pie{
+display: flex;
+align-items: center;
+
+}
+#div2-pie{
+ padding-top: 17px;
+}
+#div3-pie{
+  padding-top: 35px;
+  padding-right: 150px;
+  
+}
+#boton1{
+  height: 50px;
+  width: 110px;
+  border-radius: 20px;
+ color: black;
+ background-color: #8bd9cc;
+ transition: transform 50ms,
+    
+}
+#boton1:hover{
+  transform: translate(2px, 2px);
+}
+
+
+
+
+/*nav2*/
+ main{
+  display: flex;
+  align-items: stretch;
+  justify-content: space-around;
+  margin-top: 45px;
+  
+  
+ }
+.a2{
+  text-decoration: none;
+  color:  #f3e89f;
+}
+.a1:hover{
+  scale: 0.9;
+  
+}
+.a2:hover{
+  color: rgb(255, 129, 38);
+}
+.a3{
+  color: rgb(11, 160, 152);
+  text-decoration: none;
+}
+.a3:hover{
+  color: rgb(255, 129, 38);
+}
+
+.div6{
+  padding: 15px;
+  text-align: center;
+  background-color: #698aa1 ; 
+  color: #f3e89f ;
+}
+
+.div7{
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: #b2c1c2;
+}
+#div5{
+  width: 190px;
+}
+#donar{
+  width: 150px;
+  height: auto;
+}
+#donargato{
+  width: auto;
+  height: 270px;
+}
+
+.parafo{
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 50px;
+  color: #e6cd10;
+}
+.Paypal{
+    width: 150px;
+    height: auto;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+form{
+	width:270px;
+	padding:16px;
+	border-radius:10px;
+	margin:auto;
+	background-color:#ccc;
+}
+
+form label{
+	width:80px;
+	font-weight:bold;
+	display:inline-block;
+}
+
+form input[type="number"],
+form input[type="text"]{
+	width:180px;
+	padding:5px 10px;
+	border:1px solid #f6f6f6;
+	border-radius:3px;
+	background-color:#f6f6f6;
+	margin:8px 0;
+	display:inline-block;
+}
+form input[type="submit"]{
+	width:100%;
+	padding:8px 16px;
+	margin-top:32px;
+	border:1px solid #000;
+	border-radius:5px;
+	display:block;
+	color:#fff;
+	background-color:#000;
+  cursor: pointer;
+} 
+  #id1{
+    background-color: rgb(83, 83, 83);
+    }
+    #footer1{
+      display: flex;
+      justify-content: space-evenly;
+      }
