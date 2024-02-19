@@ -193,6 +193,7 @@ form label{
 	display:inline-block;
 }
 
+form input[type="date"],
 form input[type="tel"],
 form input[type="password"],
 form input[type="text"],
