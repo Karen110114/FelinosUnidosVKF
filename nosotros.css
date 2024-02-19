@@ -5,7 +5,7 @@
 
 }
 html {
-background-color: rgb(245, 237, 223); 
+background-color: rgb(164, 164, 161); 
 }
 
 /* header css */
@@ -124,8 +124,6 @@ display: flex;
 align-items: stretch;
 justify-content: space-around;
 margin-top: 45px;
-
-
 }
 .a2{
 text-decoration: none;
@@ -170,11 +168,26 @@ height: auto;
 width: auto;
 height: 270px;
 }
-.div2{
-  width: 970px;
-  
- 
+.nosotros{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
 }
+article{
+  text-align: center;
+  font-size: 35px;
+  color: #d52525;
+}
+.img{
+  display: flex;
+  align-items: center;
+  color: rgb(6, 114, 154);
+  font-size: 18px;
+  gap: 5%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
 #id1{
   background-color: rgb(83, 83, 83);
   }
