@@ -215,26 +215,6 @@ form input[type="submit"]{
 	background-color:#000;
   cursor: pointer;
 } 
-/**.formulario{
-  place-content: center;
-  background:#f8f8f8;
-  width: 400px;
-  height: 350px; 
-  padding: 25px;
-} 
-form{
-  width: 50px;
-}
-label{
-  display: inline-block;
-  text-align: right;
-}
-input{
-  display: block;
-  padding: 4px 8px; 
-  cursor: pointer;
-}*/
-
   #id1{
     background-color: rgb(83, 83, 83);
     }
